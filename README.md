@@ -1,21 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=Mohammed%20Aamir&fontSize=44&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20Web%20Developer%20%7C%20MDA%20Royal%20Technologies&descAlignY=57&descSize=17&descColor=C9D1D9" width="100%" alt="Mohammed Aamir Header"/>
+<!-- ===================== HERO ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0D1117,100:161B22&height=220&section=header&text=MOHAMMED%20AAMIR&fontSize=46&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=FOUNDER%20%7C%20WEB%20DEVELOPER%20%7C%20SOFTWARE%20BUILDER&descAlignY=58&descSize=16&descColor=C9D1D9" width="100%" alt="Mohammed Aamir"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=750&height=70&lines=Building+modern+web+%26+mobile+applications;React+%7C+TypeScript+%7C+Flutter+%7C+Firebase;Business+Automation+%7C+Full-Stack+Development" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=45&lines=Building+modern+web+%26+mobile+applications;React+%7C+TypeScript+%7C+Flutter+%7C+Firebase;Business+Automation+%7C+Full-Stack+Development;Exploring+AI+%7C+Cloud+%7C+DevOps" alt="Typing Animation"/>
 
 <br><br>
 
 <a href="https://mdaamir-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF&labelColor=161B22" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Website-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfolio"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://github.com/aamirjilu2">
-<img src="https://img.shields.io/badge/GITHUB-aamirjilu2-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="GitHub"/>
+<img src="https://img.shields.io/badge/💻%20GITHUB-aamirjilu2-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 
 <br><br>
@@ -26,21 +28,19 @@
 
 ---
 
-## 👋 About Me
-
-I'm **Mohammed Aamir**, a **Founder & Web Developer** focused on building practical software solutions for businesses, organizations, and everyday users.
-
-I work with modern web and mobile technologies including **React, TypeScript, Flutter, Firebase, Node.js, PostgreSQL, and cloud platforms**.
-
-I'm also exploring **Artificial Intelligence, Machine Learning, automation, DevOps, and scalable software architecture**.
+# 👨‍💻 `whoami`
 
 ```text
-Founder & Web Developer
-│
-├── 🌐 Modern Web Applications
-├── 📱 Cross-Platform Mobile Applications
-├── ⚙️ Business Management & Automation
-├── 🔥 Firebase & Cloud Solutions
-├── 🗄️ PostgreSQL & Backend Systems
-├── 🤖 AI / Machine Learning
-└── 🚀 DevOps & Cloud Technologies
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   Mohammed Aamir                                             │
+│   Founder & Web Developer                                    │
+│                                                              │
+│   Building practical software solutions for businesses,      │
+│   organizations and everyday users.                          │
+│                                                              │
+│   📍 Tamil Nadu, India                                       │
+│   🏢 MDA Royal Technologies                                  │
+│   🎓 B.Tech Information Technology                            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
